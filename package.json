@@ -9,6 +9,7 @@
   "author": "David Chiles",
   "license": "ISC",
   "dependencies": {
+    "node-xmpp-core": "^5.0.2",
     "node-xmpp-server": "^2.1.2"
   },
   "devDependencies": {
